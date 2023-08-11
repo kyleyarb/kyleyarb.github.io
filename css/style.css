@@ -28,3 +28,7 @@ body {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+
+a {
+ color: rgb(100, 0, 0);
+}
