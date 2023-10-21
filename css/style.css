@@ -23,6 +23,7 @@ body {
   max-width: 640px;
   margin: 0 auto;
   padding: 12px 0;
+  background-image: url("golden_black_hole.jpg");
 }
 
 a {
